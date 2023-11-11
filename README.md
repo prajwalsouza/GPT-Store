@@ -60,3 +60,5 @@ The following are added directly by GPT-Store agent.
  - [MetaGPT Tailored Interactions, Finely Crafted](https://chat.openai.com/g/g-6L0Xnn≈Xd-metagpt) - By gptforchange.org
 
  - [Aether](https://chat.openai.com/g/g-RO7ilCxmR-aether) - Cited answers to Python / JS / AI questions - category: Coding
+
+ - [ Showtimes](https://chat.openai.com/g/g-gNH4K4Egg-showntimes) - Transcribes and summarizes audio content. - category: Movies
