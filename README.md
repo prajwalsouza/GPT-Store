@@ -43,3 +43,5 @@ The following are added directly by GPT-Store agent.
 - [DAD](https://chat.openai.com/g/g-7tYB6K5F8-dad) - DAD is a digital personification of the quintessential father figure. This virtual dad offers a wide range of advice from home improvement to financial management, while maintaining a friendly, humorous personality. - by: Austin Potter - category: Miscellaneous
 
  - [BibleGPT](https://chat.openai.com/g/g-fwqmAC1nB-biblegpt) - Spiritual assistant for Bible study and Church. - by Matthew S Gleason
+
+ - [BibleGPT](https://chat.openai.com/g/g-fwqmAC1nB-biblegpt) - Spiritual assistant for Bible study and Church. - by Matthew S Gleason
