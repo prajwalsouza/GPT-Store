@@ -1,0 +1,1 @@
+[HallAI](https://chat.openai.com/g/g-VW43OI:zsg-hallai) - Takes an image and generates a hallucinated, weird version of it. - category: Entertainment and Fun
