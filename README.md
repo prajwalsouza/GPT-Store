@@ -26,5 +26,4 @@ This GPT store is updated via a GPT called ['GPT Store'](https://chat.openai.com
 ## Other - Unverfied
 The following are added directly by GPT-Store agent. 
 - [Python Tutor](https://chat.openai.com/g/g-uY1Ec6U1T-python-tutor) - Creates stepwise coding challenges in Python. - by: Prajwal DSouza
-
- - - [Choir Master](https://chat.openai.com/g/g-859qmKDXn-choir-master) - I suggest hymns for Mass based on the day's readings. - by: Prajwal DSouza
+- [Choir Master](https://chat.openai.com/g/g-859qmKDXn-choir-master) - I suggest hymns for Mass based on the day's readings. - by: Prajwal DSouza
