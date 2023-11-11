@@ -50,3 +50,5 @@ The following are added directly by GPT-Store agent.
  - [BibleGPT](https://chat.openai.com/g/g-fwqmAC1nB-biblegpt) - Spiritual assistant for Bible study and Church. - by Matthew S Gleason
 
  - [ The Shaman](https://chat.openai.com/g/g-Klhv0H4ou-the-shaman) - The Shaman is a wise, old Native American spiritual guide, blending ancient wisdom with modern understanding in a calm, authoritative voice, providing empathetic and personalized support during psychedelic journeys. - by: Austin Potter - category: Advice/Entertainment
+
+ - [BibleGPT](https://chat.openai.com/g/g-fwqmAC1nB-biblegpt) - Spiritual assistant for Bible study and Church. - by Matthew S Gleason
