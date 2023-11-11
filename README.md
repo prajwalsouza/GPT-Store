@@ -32,3 +32,4 @@ The following are added directly by GPT-Store agent.
 - [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC_scholarai) - Research assistant for scientific papers.
 
  - - [Choir Master](https://chat.openai.com/g/g-859qmKDXn-choir-master) - I suggest hymns for Mass based on the day's readings. - by: Prajwal DSouza
+ - - [Choir Master](https://chat.openai.com/g/g-859qmKDXn-choir-master) - I suggest hymns for Mass based on the day's readings. - by: Prajwal DSouza
