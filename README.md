@@ -1,5 +1,5 @@
 # The GPT Store 🛍️
-This GPT store is updated via a GPT called ['GPT Store'](https://chat.openai.com/g/g-PZ6cOScM4-gpt-store)
+This GPT store is updated via a GPT Agent : ['GPT Store'](https://chat.openai.com/g/g-PZ6cOScM4-gpt-store)
 
 ### Education 🎓
 - [Physics Problem Creator](https://chat.openai.com/g/g-PRMFOZtRh-physics-problem-creator) - The Physics Problem Creator is a specialized GPT designed to assist physics teachers in creating diverse and engaging problem sets for their students. - Education / Academic Tools (Physics)  
