@@ -31,3 +31,5 @@ The following are added directly by GPT-Store agent.
 - [How to Get Promotion from Boss](https://chat.openai.com/g/g-6ccJfpIdt-how-to-get-promotion-from-boss) - Turns boss criticisms into positive, witty, and professional remarks. - category: Life Style
 - [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC_scholarai) - Research assistant for scientific papers.
 - [Prompt Reverse Engineer](https://chat.openai.com/g/g-yD4laGVCL-prompt-reverse-engineer-2-2-beta) - Provide the GPT to a link of a GPT prompt on a marketplace and it will reverse engineer it for you, free of charge. - by: ThePromptfather - category: Engineering
+
+ - - [Choir Master](https://chat.openai.com/g/g-859qmKDXn-choir-master) - I suggest hymns for Mass based on the day's readings. - by: Prajwal DSouza
