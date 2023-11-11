@@ -13,14 +13,23 @@ jobs:
       - name: Find the most recently committed file in the gpts directory
         id: findfile
         run: |
-          # Find the latest commit affecting any file in the 'gpts/' directory
-          LATEST_COMMIT=$(git log -1 --pretty=format:%H -- 'gpts/')
+          # Get the log of commits affecting files in the 'gpts/' directory
+          # Limit to recent commits for efficiency
+          COMMIT_LOG=$(git log -n 10 --pretty=format:%H -- 'gpts/')
 
-          # Get the name of the file affected in the latest commit
-          NEW_FILE=$(git diff-tree --no-commit-id --name-only -r $LATEST_COMMIT | grep '^gpts/' | head -n 1)
+          # Iterate over the commits to find the most recent file change
+          for COMMIT_HASH in $COMMIT_LOG
+          do
+            # Get the file(s) affected in this commit
+            FILES_IN_COMMIT=$(git diff-tree --no-commit-id --name-only -r $COMMIT_HASH | grep '^gpts/')
+            if [[ ! -z "$FILES_IN_COMMIT" ]]; then
+              # If files were affected in this commit, break and use the latest one
+              break
+            fi
+          done
 
-          echo "Most recently committed file in 'gpts/' directory:"
-          echo "$NEW_FILE"
+          NEW_FILE=$(echo "$FILES_IN_COMMIT" | head -n 1)
+          echo "Most recently committed file in 'gpts/': $NEW_FILE"
 
           if [[ ! -z "$NEW_FILE" ]]; then
             echo "NEW_FILE=$NEW_FILE" >> $GITHUB_ENV
