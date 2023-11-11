@@ -15,19 +15,37 @@ jobs:
         run: |
           # Get the log of commits affecting files in the 'gpts/' directory
           # Limit to recent commits for efficiency
+          echo "Fetching commit log..."
           COMMIT_LOG=$(git log -n 10 --pretty=format:%H -- 'gpts/')
+          echo "Commit Log: $COMMIT_LOG"
+
+          # Check if COMMIT_LOG is empty
+          if [[ -z "$COMMIT_LOG" ]]; then
+            echo "No recent commits found affecting 'gpts/' directory."
+            exit 0
+          fi
 
           # Iterate over the commits to find the most recent file change
           for COMMIT_HASH in $COMMIT_LOG
           do
+            echo "Checking commit: $COMMIT_HASH"
             # Get the file(s) affected in this commit
             FILES_IN_COMMIT=$(git diff-tree --no-commit-id --name-only -r $COMMIT_HASH | grep '^gpts/')
+            echo "Files in commit: $FILES_IN_COMMIT"
+
+            # Break the loop if files were found
             if [[ ! -z "$FILES_IN_COMMIT" ]]; then
-              # If files were affected in this commit, break and use the latest one
               break
             fi
           done
 
+          # Handling the case where no files were found
+          if [[ -z "$FILES_IN_COMMIT" ]]; then
+            echo "No files found in recent commits."
+            exit 0
+          fi
+
+          # Selecting the first file from the list
           NEW_FILE=$(echo "$FILES_IN_COMMIT" | head -n 1)
           echo "Most recently committed file in 'gpts/': $NEW_FILE"
 
