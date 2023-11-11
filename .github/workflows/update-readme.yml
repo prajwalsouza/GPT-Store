@@ -3,7 +3,7 @@ name: Update README
 on:
   push:
     paths:
-      - 'gpts/'
+      - 'gpts/**'
 
 jobs:
   update-readme:
