@@ -32,7 +32,7 @@ This GPT store is updated via a GPT Agent : ['GPT Store'](https://chat.openai.co
 - [Voyage Guide](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide) - I craft personalized travel plans. - by: rngfx.com
 
 
-
+  
 
 ## 🕵️ Other - Added by agent 
 The following are added directly by GPT-Store agent. 
