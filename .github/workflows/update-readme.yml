@@ -10,24 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Find newly added file in the latest commit
+      - name: Find the most recently committed file in the gpts directory
         id: findfile
         run: |
-          # Identify the latest commit hash
-          LATEST_COMMIT=$(git rev-parse HEAD)
+          # Find the latest commit affecting any file in the 'gpts/' directory
+          LATEST_COMMIT=$(git log -1 --pretty=format:%H -- 'gpts/')
 
-          # Get the list of added files in the latest commit in 'gpts/' directory
-          NEW_FILES=$(git show --pretty="" --name-only --diff-filter=A $LATEST_COMMIT | grep '^gpts/')
+          # Get the name of the file affected in the latest commit
+          NEW_FILE=$(git diff-tree --no-commit-id --name-only -r $LATEST_COMMIT | grep '^gpts/' | head -n 1)
 
-          # Debugging: print the list of new files
-          echo "Newly added files in the latest commit:"
-          echo "$NEW_FILES"
-
-          # Selecting the last newly added file
-          NEW_FILE=$(echo "$NEW_FILES" | tail -n 1)
+          echo "Most recently committed file in 'gpts/' directory:"
+          echo "$NEW_FILE"
 
           if [[ ! -z "$NEW_FILE" ]]; then
-            echo "Newly added file found: $NEW_FILE"
             echo "NEW_FILE=$NEW_FILE" >> $GITHUB_ENV
           fi
 
