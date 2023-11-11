@@ -13,7 +13,13 @@ jobs:
       - name: Find new file
         id: findfile
         run: |
-          NEW_FILE=$(git diff --name-only HEAD^ HEAD | grep '^gpts/' | head -n 1)
+          if git rev-parse HEAD^ >/dev/null 2>&1; then
+            # There is a previous commit, so compare against it
+            NEW_FILE=$(git diff --name-only HEAD^ HEAD | grep '^gpts/' | head -n 1)
+          else
+            # No previous commit, so list all files in 'gpts/'
+            NEW_FILE=$(git ls-tree --name-only -r HEAD | grep '^gpts/' | head -n 1)
+          fi
           echo "New file found: $NEW_FILE"
           if [[ ! -z "$NEW_FILE" ]]; then
             echo "::set-output name=new_file::$NEW_FILE"
