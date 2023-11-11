@@ -9,22 +9,29 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Find new file
-      id: findfile
-      run: |
-        NEW_FILE=$(git diff --name-only HEAD^ HEAD | grep '^gpts/' | head -n 1)
-        if [[ ! -z "$NEW_FILE" ]]; then
-          echo "::set-output name=new_file::$NEW_FILE"
-        fi
-    - name: Update README
-      if: steps.findfile.outputs.new_file
-      run: |
-        NEW_FILE="${{ steps.findfile.outputs.new_file }}"
-        CONTENT=$(cat "$NEW_FILE")
-        printf "\n## New Content\n\n$CONTENT\n" >> README.md
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add README.md
-        git commit -m "Update README with new content"
-        git push
+      - uses: actions/checkout@v2
+      - name: Find new file
+        id: findfile
+        run: |
+          NEW_FILE=$(git diff --name-only HEAD^ HEAD | grep '^gpts/' | head -n 1)
+          echo "New file found: $NEW_FILE"
+          if [[ ! -z "$NEW_FILE" ]]; then
+            echo "::set-output name=new_file::$NEW_FILE"
+          fi
+      - name: Print new file content (for debugging)
+        if: steps.findfile.outputs.new_file
+        run: |
+          NEW_FILE="${{ steps.findfile.outputs.new_file }}"
+          echo "Contents of $NEW_FILE:"
+          cat "$NEW_FILE"
+      - name: Update README
+        if: steps.findfile.outputs.new_file
+        run: |
+          NEW_FILE="${{ steps.findfile.outputs.new_file }}"
+          CONTENT=$(cat "$NEW_FILE")
+          printf "\n## New Content\n\n$CONTENT\n" >> README.md
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with new content"
+          git push
