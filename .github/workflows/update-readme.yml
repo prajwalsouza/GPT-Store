@@ -10,17 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Find newly added file in the last commit
+      - name: Find newly added file in the latest commit
         id: findfile
         run: |
-          # Getting the list of files added in the last commit in the 'gpts/' directory
-          NEW_FILES=$(git log -m -1 --name-only --pretty=format: | grep '^gpts/')
+          # Identify the latest commit hash
+          LATEST_COMMIT=$(git rev-parse HEAD)
+
+          # Get the list of added files in the latest commit in 'gpts/' directory
+          NEW_FILES=$(git show --pretty="" --name-only --diff-filter=A $LATEST_COMMIT | grep '^gpts/')
 
           # Debugging: print the list of new files
-          echo "Newly added files in the last commit:"
+          echo "Newly added files in the latest commit:"
           echo "$NEW_FILES"
 
-          # Selecting the first newly added file (if multiple)
+          # Selecting the first newly added file
           NEW_FILE=$(echo "$NEW_FILES" | head -n 1)
 
           if [[ ! -z "$NEW_FILE" ]]; then
@@ -39,7 +42,7 @@ jobs:
         run: |
           NEW_FILE="${{ steps.findfile.outputs.new_file }}"
           CONTENT=$(cat "$NEW_FILE")
-          printf "\n - $CONTENT" >> README.md
+          printf "\n\n - $CONTENT" >> README.md
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
