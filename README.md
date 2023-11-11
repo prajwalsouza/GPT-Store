@@ -21,3 +21,7 @@ This GPT store is updated via a GPT called ['GPT Store'](https://chat.openai.com
 
 ### Miscellaneous 
 - [Voyage Guide](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide) - I craft personalized travel plans. - by: rngfx.com
+
+## New Content
+
+- [Choir Master](https://chat.openai.com/g/g-859qmKDxn-choir-master) - I suggest hymns for Mass based on the day's readings. - by: Prajwal DSouza
