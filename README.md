@@ -58,3 +58,5 @@ The following are added directly by GPT-Store agent.
  - [MetaGPT Tailored Interactions, Finely Crafted](https://chat.openai.com/g/g-6L0Xnn≈Xd-metagpt) - By gptforchange.org
 
  - [MetaGPT Tailored Interactions, Finely Crafted](https://chat.openai.com/g/g-6L0Xnn≈Xd-metagpt) - By gptforchange.org
+
+ - [Aether](https://chat.openai.com/g/g-RO7ilCxmR-aether) - Cited answers to Python / JS / AI questions - category: Coding
