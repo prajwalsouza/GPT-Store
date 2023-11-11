@@ -23,24 +23,25 @@ jobs:
           echo "Newly added files in the latest commit:"
           echo "$NEW_FILES"
 
-          # Selecting the first newly added file
-          NEW_FILE=$(echo "$NEW_FILES" | head -n 1)
+          # Selecting the last newly added file
+          NEW_FILE=$(echo "$NEW_FILES" | tail -n 1)
 
           if [[ ! -z "$NEW_FILE" ]]; then
-            echo "::set-output name=new_file::$NEW_FILE"
+            echo "Newly added file found: $NEW_FILE"
+            echo "NEW_FILE=$NEW_FILE" >> $GITHUB_ENV
           fi
 
       - name: Print new file content (for debugging)
-        if: steps.findfile.outputs.new_file
+        if: env.NEW_FILE
         run: |
-          NEW_FILE="${{ steps.findfile.outputs.new_file }}"
+          NEW_FILE=${{ env.NEW_FILE }}
           echo "Contents of $NEW_FILE:"
           cat "$NEW_FILE"
 
       - name: Update README
-        if: steps.findfile.outputs.new_file
+        if: env.NEW_FILE
         run: |
-          NEW_FILE="${{ steps.findfile.outputs.new_file }}"
+          NEW_FILE=${{ env.NEW_FILE }}
           CONTENT=$(cat "$NEW_FILE")
           printf "\n\n - $CONTENT" >> README.md
           git config --local user.email "action@github.com"
