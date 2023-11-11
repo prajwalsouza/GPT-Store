@@ -35,7 +35,7 @@ jobs:
         run: |
           NEW_FILE="${{ steps.findfile.outputs.new_file }}"
           CONTENT=$(cat "$NEW_FILE")
-          printf "\n## New Content\n\n$CONTENT\n" >> README.md
+          printf "$CONTENT" >> README.md
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
