@@ -10,26 +10,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Find new or modified file
+      - name: Find newly added file in the last commit
         id: findfile
         run: |
-          if git rev-parse HEAD^ >/dev/null 2>&1; then
-            # There is a previous commit, so find the most recently modified file
-            NEW_FILE=$(git diff --name-only HEAD^ HEAD | grep '^gpts/' | xargs -r ls -t | head -n 1)
-          else
-            # No previous commit, so find the most recently created file in 'gpts/'
-            NEW_FILE=$(ls -t gpts/ | head -n 1)
-          fi
-          echo "New or modified file found: $NEW_FILE"
+          # Getting the list of files added in the last commit in the 'gpts/' directory
+          NEW_FILES=$(git log -m -1 --name-only --pretty=format: | grep '^gpts/')
+
+          # Debugging: print the list of new files
+          echo "Newly added files in the last commit:"
+          echo "$NEW_FILES"
+
+          # Selecting the first newly added file (if multiple)
+          NEW_FILE=$(echo "$NEW_FILES" | head -n 1)
+
           if [[ ! -z "$NEW_FILE" ]]; then
-            echo "::set-output name=new_file::gpts/$NEW_FILE"
+            echo "::set-output name=new_file::$NEW_FILE"
           fi
+
       - name: Print new file content (for debugging)
         if: steps.findfile.outputs.new_file
         run: |
           NEW_FILE="${{ steps.findfile.outputs.new_file }}"
           echo "Contents of $NEW_FILE:"
           cat "$NEW_FILE"
+
       - name: Update README
         if: steps.findfile.outputs.new_file
         run: |
@@ -39,5 +43,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Update README with new content"
+          git commit -m "Update README with new content from $NEW_FILE"
           git push
