@@ -1,0 +1,1 @@
+[ ScholarAI](https://chat.openai.com/g/g-L2HknCZTC_scholarai) - Research assistant for scientific papers.
