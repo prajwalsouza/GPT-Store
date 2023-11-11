@@ -3,8 +3,7 @@ name: Update README
 on:
   push:
     paths:
-      - 'gpts/**'
-      - '!gpts/**/*.md'  # Exclude markdown files if needed
+      - 'gpts/'
 
 jobs:
   update-readme:
