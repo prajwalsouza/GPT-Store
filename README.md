@@ -1,7 +1,6 @@
 # The GPT Store
 This GPT store is updated via a GPT called ['GPT Store'](https://chat.openai.com/g/g-PZ6cOScM4-gpt-store)
 
-
 ### Education
 - [Physics Problem Creator](https://chat.openai.com/g/g-PRMFOZtRh-physics-problem-creator) - The Physics Problem Creator is a specialized GPT designed to assist physics teachers in creating diverse and engaging problem sets for their students. - Education / Academic Tools (Physics)  
 - [Math Mentor](https://chat.openai.com/g/g-ENhijiiwK) - I help parents help their kids with math. Need a 9pm refresher on geometry proofs? I’m here for you. - by: ChatGPT
@@ -22,10 +21,7 @@ This GPT store is updated via a GPT called ['GPT Store'](https://chat.openai.com
 ### Miscellaneous 
 - [Voyage Guide](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide) - I craft personalized travel plans. - by: rngfx.com
 
-## New Content
 
-- [Choir Master](https://chat.openai.com/g/g-859qmKDxn-choir-master) - I suggest hymns for Mass based on the day's readings. - by: Prajwal DSouza
 
-## New Content
-
-- [Choir Master](https://chat.openai.com/g/g-859qmKDxn-choir-master) - I suggest hymns for Mass based on the day's readings. - by: Prajwal DSouza
+## Other - Unverfied
+The following are added directly by GPT-Store agent. 
