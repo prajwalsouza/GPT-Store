@@ -30,6 +30,3 @@ The following are added directly by GPT-Store agent.
 - [Choir Master](https://chat.openai.com/g/g-859qmKDXn-choir-master) - I suggest hymns for Mass based on the day's readings. - by: Prajwal DSouza
 - [How to Get Promotion from Boss](https://chat.openai.com/g/g-6ccJfpIdt-how-to-get-promotion-from-boss) - Turns boss criticisms into positive, witty, and professional remarks. - category: Life Style
 - [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC_scholarai) - Research assistant for scientific papers.
-
- - - [Choir Master](https://chat.openai.com/g/g-859qmKDXn-choir-master) - I suggest hymns for Mass based on the day's readings. - by: Prajwal DSouza
- - - [Choir Master](https://chat.openai.com/g/g-859qmKDXn-choir-master) - I suggest hymns for Mass based on the day's readings. - by: Prajwal DSouza
