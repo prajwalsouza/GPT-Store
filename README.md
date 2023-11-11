@@ -54,3 +54,5 @@ The following are added directly by GPT-Store agent.
  - [BibleGPT](https://chat.openai.com/g/g-fwqmAC1nB-biblegpt) - Spiritual assistant for Bible study and Church. - by Matthew S Gleason
 
  - [MetaGPT Tailored Interactions, Finely Crafted](https://chat.openai.com/g/g-6L0Xnn≈Xd-metagpt) - By gptforchange.org
+
+ - [MetaGPT Tailored Interactions, Finely Crafted](https://chat.openai.com/g/g-6L0Xnn≈Xd-metagpt) - By gptforchange.org
