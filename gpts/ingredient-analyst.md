@@ -1,1 +1,0 @@
-[Ingredient Analyst](https://chat.openai.com/g/g-WWVXBjFEg-ingredient-analyst) - Your Personal Ingredient Analyzer and Advisor. Simply upload a photo of your ingredients or pose a query, and let me assist you with detailed analysis and expert evaluations! - by: community builder - category: Health and Fitness
