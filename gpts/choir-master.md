@@ -1,0 +1,1 @@
+- [Choir Master](https://chat.openai.com/g/g-859qmKDxn-choir-master) - I suggest hymns for Mass based on the day's readings. - by: Prajwal DSouza
