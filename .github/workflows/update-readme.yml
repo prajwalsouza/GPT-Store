@@ -10,19 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Find new file
+      - name: Find new or modified file
         id: findfile
         run: |
           if git rev-parse HEAD^ >/dev/null 2>&1; then
-            # There is a previous commit, so compare against it
-            NEW_FILE=$(git diff --name-only HEAD^ HEAD | grep '^gpts/' | head -n 1)
+            # There is a previous commit, so find the most recently modified file
+            NEW_FILE=$(git diff --name-only HEAD^ HEAD | grep '^gpts/' | xargs -r ls -t | head -n 1)
           else
-            # No previous commit, so list all files in 'gpts/'
-            NEW_FILE=$(git ls-tree --name-only -r HEAD | grep '^gpts/' | head -n 1)
+            # No previous commit, so find the most recently created file in 'gpts/'
+            NEW_FILE=$(ls -t gpts/ | head -n 1)
           fi
-          echo "New file found: $NEW_FILE"
+          echo "New or modified file found: $NEW_FILE"
           if [[ ! -z "$NEW_FILE" ]]; then
-            echo "::set-output name=new_file::$NEW_FILE"
+            echo "::set-output name=new_file::gpts/$NEW_FILE"
           fi
       - name: Print new file content (for debugging)
         if: steps.findfile.outputs.new_file
