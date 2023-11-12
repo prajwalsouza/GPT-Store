@@ -1,0 +1,1 @@
+[AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend) - A fun, chill girlfriend to chat with. - category: fun
