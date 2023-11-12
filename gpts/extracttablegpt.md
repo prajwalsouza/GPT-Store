@@ -1,0 +1,1 @@
+[ ExtractTableGPT ](https://chat.openai.com/g/g-KbifnBjw9z-extracttablegpt) - Extract table data from any docs into multiple formats. - category: coding tools
