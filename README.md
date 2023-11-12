@@ -49,3 +49,5 @@ The following are added directly by GPT-Store agent.
  - [ Showtimes](https://chat.openai.com/g/g-gNH4K4Egg-showntimes) - Transcribes and summarizes audio content. - category: Movies
 
  - 1
+
+ - [Artisan Canvas](https://chat.openai.com/g/g-djaRBZs0B-artisan-canvas) - Creates oil painting style images with large pieces of paint. - category: Image Generation
