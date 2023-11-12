@@ -41,7 +41,7 @@ The following are added directly by GPT-Store agent.
 - [The Shaman](https://chat.openai.com/g/g-Klhv0H4ou-the-shaman) - The Shaman is a wise, old Native American spiritual guide, blending ancient wisdom with modern understanding in a calm, authoritative voice, providing empathetic and personalized support during psychedelic journeys. - by: Austin Potter - category: Advice/Entertainment
 - [DAD](https://chat.openai.com/g/g-7tYB6K5F8-dad) - DAD is a digital personification of the quintessential father figure. This virtual dad offers a wide range of advice from home improvement to financial management, while maintaining a friendly, humorous personality. - by: Austin Potter - category: Miscellaneous
 - [BibleGPT](https://chat.openai.com/g/g-fwqmAC1nB-biblegpt) - Spiritual assistant for Bible study and Church. - by Matthew S Gleason
-- [MetaGPT Tailored Interactions, Finely Crafted](https://chat.openai.com/g/g-6L0XnnÅXd-metagpt) - By gptforchange.org
+- [MetaGPT](https://chat.openai.com/g/g-6L0XnnÅXd-metagpt) - Tailored Interactions, Finely Crafted - By gptforchange.org
 - [Aether](https://chat.openai.com/g/g-RO7ilCxmR-aether) - Cited answers to Python / JS / AI questions - category: Coding
 - [Showtimes](https://chat.openai.com/g/g-gNH4K4Egg-showntimes) - Transcribes and summarizes audio content. - category: Movies
 - [Artisan Canvas](https://chat.openai.com/g/g-djaRBZs0B-artisan-canvas) - Creates oil painting style images with large pieces of paint. - category: Image Generation
