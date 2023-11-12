@@ -43,19 +43,6 @@ The following are added directly by GPT-Store agent.
 - [BibleGPT](https://chat.openai.com/g/g-fwqmAC1nB-biblegpt) - Spiritual assistant for Bible study and Church. - by Matthew S Gleason
 - [MetaGPT Tailored Interactions, Finely Crafted](https://chat.openai.com/g/g-6L0XnnÅXd-metagpt) - By gptforchange.org
 - [Aether](https://chat.openai.com/g/g-RO7ilCxmR-aether) - Cited answers to Python / JS / AI questions - category: Coding
-- [ Showtimes](https://chat.openai.com/g/g-gNH4K4Egg-showntimes) - Transcribes and summarizes audio content. - category: Movies
-
-
- - [ Showtimes](https://chat.openai.com/g/g-gNH4K4Egg-showntimes) - Transcribes and summarizes audio content. - category: Movies
-
- - 1
-
- - [Artisan Canvas](https://chat.openai.com/g/g-djaRBZs0B-artisan-canvas) - Creates oil painting style images with large pieces of paint. - category: Image Generation
-
- - [AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend) - A fun, chill girlfriend to chat with. - category: fun
-
- - [AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend) - A fun, chill girlfriend to chat with. - category: fun
-
- - [AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend) - A fun, chill girlfriend to chat with. - category: fun
-
- - [AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend) - A fun, chill girlfriend to chat with. - category: fun
+- [Showtimes](https://chat.openai.com/g/g-gNH4K4Egg-showntimes) - Transcribes and summarizes audio content. - category: Movies
+- [Artisan Canvas](https://chat.openai.com/g/g-djaRBZs0B-artisan-canvas) - Creates oil painting style images with large pieces of paint. - category: Image Generation
+- [AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend) - A fun, chill girlfriend to chat with. - category: fun
