@@ -1,4 +1,3 @@
-Here's the updated README:
 
 # 🛍️ The GPT Store
 This GPT store is updated via a GPT Agent : ['GPT Store'](https://chat.openai.com/g/g-PZ6cOScM4-gpt-store)
