@@ -27,13 +27,22 @@ and expert evaluations! - by: community builder - category: Health and Fitness
 ### 🎉 Entertainment 
 - [Emoji Generator](https://chat.openai.com/g/g-wkmOq6AxG-emoji-generator) - I turn your text into Emoji - by: aiprompto.com.
 - [Meme Magic](https://chat.openai.com/g/g-SQTa6OMNN) - A creative meme wizard - by: ratcgpts.com - category: Entertainment
-- [HallAI](https://chat.openai.com/g/g-VW43OI:zsg-hallai) - Takes an image and generates a hallucinated, weird version of it. - category: Entertainment and Fun
+- [HallAI](https://chat.openai.com/g/g-VW43OI:zsg-hallai) - Takes an image and generates a hallucinated, weird version of it. 
 - [Pixarize Me](https://chat.openai.com/g/g-t37VkYd30-pixarize-me) - Creates Pixar-style characters from user images, 
 focusing on detailed features. - by: Serkan Dayıcık
 
 
-### Productivity
+### 🎮 Games
+- [Dungeon Crawler](https://chat.openai.com/g/g-A7c3BLATR-dungeon-crawler) - Guide players through a dynamic, ever-changing RPG dungeon. 
+
+
+### 📁Productivity
 - [Prompt Reverse Engineer](https://chat.openai.com/g/g-yD4laGVCL-prompt-reverse-engineer-2-2-beta) - Provide the GPT to a link of a GPT prompt on a marketplace and it will reverse engineer it for you, free of charge. - by: ThePromptfather
+
+
+### 📈 Business
+- [JuiceGPT](https://chat.openai.com/g/g-sjKcKJ0nu-juicegpt) - Assist in providing business insights, analysis, and clear, engaging content. - by: Newin
+  
 
 ### 🌐 Miscellaneous 
 - [Voyage Guide](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide) - I craft personalized travel plans. - by: rngfx.com
@@ -42,8 +51,6 @@ focusing on detailed features. - by: Serkan Dayıcık
 - [How to Get Promotion from Boss](https://chat.openai.com/g/g-6ccJfpIdt-how-to-get-promotion-from-boss) - Turns boss criticisms into positive, witty, and professional remarks. - category: Life Style
 - [The Shaman](https://chat.openai.com/g/g-Klhv0H4ou-the-shaman) - The Shaman is a wise, old Native American spiritual guide, blending ancient wisdom with modern understanding in a calm, authoritative voice, providing empathetic and personalized support during psychedelic journeys. - by: Austin Potter - category: Advice/Entertainment
 
-### 🌐 Business
-- [JuiceGPT](https://chat.openai.com/g/g-sjKcKJ0nu-juicegpt) - Assist in providing business insights, analysis, and clear, engaging content. - by: Newin
 
 ### 🕵️ Other
 - [Artisan Canvas](https://chat.openai.com/g/g-djaRBZs0B-artisan-canvas) - Creates oil painting style images with large pieces of paint. - category: Image Generation
