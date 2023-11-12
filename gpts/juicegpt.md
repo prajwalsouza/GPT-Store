@@ -1,0 +1,1 @@
+[JuiceGPT](https://chat.openai.com/g/g-sjKcKJ0nu-juicegpt) - Assist in providing business insights, analysis, and clear, engaging content. - by: Newin - category: Business/Analytics
