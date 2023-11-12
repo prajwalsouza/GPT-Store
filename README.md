@@ -31,22 +31,25 @@ and expert evaluations! - by: community builder - category: Health and Fitness
 - [Pixarize Me](https://chat.openai.com/g/g-t37VkYd30-pixarize-me) - Creates Pixar-style characters from user images, 
 focusing on detailed features. - by: Serkan Dayıcık
 
+
+### Productivity
+- [Prompt Reverse Engineer](https://chat.openai.com/g/g-yD4laGVCL-prompt-reverse-engineer-2-2-beta) - Provide the GPT to a link of a GPT prompt on a marketplace and it will reverse engineer it for you, free of charge. - by: ThePromptfather
+
 ### 🌐 Miscellaneous 
 - [Voyage Guide](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide) - I craft personalized travel plans. - by: rngfx.com
 - [Choir Master](https://chat.openai.com/g/g-859qmKDXn-choir-master) - I suggest hymns for Mass based on the day's readings. - by: Prajwal DSouza
 - [DAD](https://chat.openai.com/g/g-7tYB6K5F8-dad) - DAD is a digital personification of the quintessential father figure. This virtual dad offers a wide range of advice from home improvement to financial management, while maintaining a friendly, humorous personality. - by: Austin Potter - category: Miscellaneous
 - [How to Get Promotion from Boss](https://chat.openai.com/g/g-6ccJfpIdt-how-to-get-promotion-from-boss) - Turns boss criticisms into positive, witty, and professional remarks. - category: Life Style
-- [The Shaman](https://chat.openai.com/g/g-Klhv0H4ou-the-shaman) - The Shaman is a wise, old Native American spiritual guide, blending ancient wisdom with modern understanding in a calm, authoritative voice, providing empathetic and 
-personalized support during psychedelic journeys. - by: Austin Potter - category: Advice/Entertainment
+- [The Shaman](https://chat.openai.com/g/g-Klhv0H4ou-the-shaman) - The Shaman is a wise, old Native American spiritual guide, blending ancient wisdom with modern understanding in a calm, authoritative voice, providing empathetic and personalized support during psychedelic journeys. - by: Austin Potter - category: Advice/Entertainment
+
+### 🌐 Business
+- [JuiceGPT](https://chat.openai.com/g/g-sjKcKJ0nu-juicegpt) - Assist in providing business insights, analysis, and clear, engaging content. - by: Newin
 
 ### 🕵️ Other
 - [Artisan Canvas](https://chat.openai.com/g/g-djaRBZs0B-artisan-canvas) - Creates oil painting style images with large pieces of paint. - category: Image Generation
 - [BibleGPT](https://chat.openai.com/g/g-fwqmAC1nB-biblegpt) - Spiritual assistant for Bible study and Church. - by Matthew S Gleason
 - [Language Coach](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach) - Practice speaking another language like a local without being a local - by: Watchovr LLC
-- [Olyup](https://chat.openai.com/g/g-JlDoaXFrU-olyup) - Your AI Sports Scientist to help you level up your game - in 
-and off the field - by: Mbongeni Ndlovu
-- [Prompt Reverse Engineer](https://chat.openai.com/g/g-yD4laGVCL-prompt-reverse-engineer-2-2-beta) - Provide the GPT 
-to a link of a GPT prompt on a marketplace and it will reverse engineer it for you, free of charge. - by: ThePromptfather - category: Engineering
+- [Olyup](https://chat.openai.com/g/g-JlDoaXFrU-olyup) - Your AI Sports Scientist to help you level up your game - in and off the field - by: Mbongeni Ndlovu
 - [Score Keeper](https://chat.openai.com/g/g-MxzItjzF7-score-keeper) - I keep score, for games. - by: Timothy L Constantine
 - [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw) - Refines tweets to boost engagement, with a style twist on demand. - by: Viacheslav Kovalevskyi
 
