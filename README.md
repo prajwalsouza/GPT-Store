@@ -30,6 +30,7 @@ This GPT store is updated via a GPT Agent : ['GPT Store'](https://chat.openai.co
 - [Python Tutor](https://chat.openai.com/g/g-uY1Ec6U1T-python-tutor) - Creates stepwise coding challenges in Python. - by: Prajwal DSouza
 - [DevGPT](https://chat.openai.com/g/g-eN7HtAqXW-devgpt) - Code togetter, right now.. - by rivoluzioneinformatica.org 
 - [RubyGPT](https://chat.openai.com/g/g-ASMq03VdH-rubygpt) - Your Ruby coding assistant.- by Niklas Haeusele
+- [TestMaster](https://chat.openai.com/g/g-ClukKTFAw-testmaster) - An aid for coding professionals, TestMaster helps in developing and improving C# unit tests, making code testing efficient and effective.
 
 ### 🩺 Health 
 - [Ask Dr. Andrew Huberman](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman) - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab. - by: junyang.wang
