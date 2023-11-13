@@ -1,0 +1,1 @@
+[Poetic Muse](https://chat.openai.com/g/g-4F6BjYRn7-poetic-muse) - Input in any topic or however y’re feeling, and a nice well thought out poem is outputted. - by: Yacub Abuhmeidan - category: Creative Writing/Arts and Entertainment
