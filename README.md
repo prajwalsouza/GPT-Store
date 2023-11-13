@@ -6,6 +6,7 @@ This GPT store is updated via a GPT Agent : ['GPT Store'](https://chat.openai.co
  - Manual Google search tricks : [Google search : site:chat.openai.com/g](https://www.google.com/search?q=site%3Achat.openai.com%2Fg&oq=site%3Achat.openai.com%2Fg)  - inspired by 
 (https://twitter.com/taranjeetio/status/1723437952905384336)[https://twitter.com/taranjeetio/status/1723437952905384336]
  - [GPT Shop Keeper](https://chat.openai.com/g/g-22ZUhrOgu-gpt-shop-keeper) - The Unofficial GPT App Store 
+ - [Awesome GPT Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - https://github.com/Anil-matcha/Awesome-GPT-Store
 
 ### 📁Productivity
 - [ConvertAnything](https://chat.openai.com/g/g-kMKw5tFmB-convertanything) - The ultimate file converter for images, audio, video, documents and more. It handles individual or batch uploads, supports ZIPs, and provides a download link. - by Pietro Schirano
