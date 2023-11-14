@@ -1,0 +1,1 @@
+[CSRD Advisor](https://chat.openai.com/g/g-vVra4We8d-csrd-advisor) - Corporate Sustainability Reporting Directive. - by: BusinessDigital.fr - category : CSR
