@@ -44,7 +44,7 @@ and expert evaluations! - by: community builder - category: Health and Fitness
 ### Image Tools
 - [Logo Creator](https://chat.openai.com/g/g-gFt1ghYJl-logo-creator) - Use me to generate logo designs! - by: Chase Lean
 - [Artisan Canvas](https://chat.openai.com/g/g-djaRBZs0B-artisan-canvas) - Creates oil painting style images with large pieces of paint. 
-- - [Pixarize Me](https://chat.openai.com/g/g-t37VkYd30-pixarize-me) - Creates Pixar-style characters from user images, 
+- [Pixarize Me](https://chat.openai.com/g/g-t37VkYd30-pixarize-me) - Creates Pixar-style characters from user images, 
 focusing on detailed features. - by: Serkan Dayıcık
 
 
