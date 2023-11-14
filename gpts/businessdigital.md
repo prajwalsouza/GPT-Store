@@ -1,0 +1,1 @@
+[Businessdigital](https://chat.openai.com/g/g-tFH6RG72I-businessdigital) - Organisme de formation professionnelle avec des programmes subventionnées. - by: BusinessDigital.fr - category : Education
