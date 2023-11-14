@@ -15,6 +15,7 @@ This GPT store is updated via a GPT Agent : ['GPT Store'](https://chat.openai.co
 ### 🎓 Education 
 - [Physics Problem Creator](https://chat.openai.com/g/g-PRMFOZtRh-physics-problem-creator) - The Physics Problem Creator is a specialized GPT designed to assist physics teachers in creating diverse and engaging problem sets for their students. - Education / Academic Tools (Physics)  
 - [Math Mentor](https://chat.openai.com/g/g-ENhijiiwK) - I help parents help their kids with math. Need a 9pm refresher on geometry proofs? Iâ€™m here for you. - by: ChatGPT
+- [Businessdigital](https://chat.openai.com/g/g-tFH6RG72I-businessdigital) - Organisme de formation professionnelle avec des programmes subventionn�es. - by: BusinessDigital.fr
 
 ### 🔬 Research 
 - [AnalyzePaper](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper) - Takes in a research paper or article, analyzes its claims, study quality, and results confidence and provides an easy to understand summary. - by: danielmiessler.com
@@ -31,6 +32,9 @@ This GPT store is updated via a GPT Agent : ['GPT Store'](https://chat.openai.co
 - [RubyGPT](https://chat.openai.com/g/g-ASMq03VdH-rubygpt) - Your Ruby coding assistant.- by Niklas Haeusele
 - [TestMaster](https://chat.openai.com/g/g-ClukKTFAw-testmaster) - An aid for coding professionals, TestMaster helps in developing and improving C# unit tests, making code testing efficient and effective.
 
+### Data Analytics
+- [Data Analytica](https://chat.openai.com/g/g-uIIMugM0x-data-analytica) - Data Analytica pulls 2800+ pages of material in its knowledge on performing data analytics in Python to perform higher-quality data analytics. - by: Brian Toney 
+
 ### 🩺 Health 
 - [Ask Dr. Andrew Huberman](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman) - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab. - by: junyang.wang
 - [FitPal](https://chat.openai.com/g/g-zoXbeHp7G) - AI fitness and nutrition guide with meal planning - by:  Igor Prodanović
@@ -45,20 +49,18 @@ focusing on detailed features. - by: Serkan Dayıcık
 
 
 ### 🎉 Entertainment 
+- [Mentalist](https://chat.openai.com/g/g-lyl9YY4gt-mentalist) - Give me an image, tell me something from your life, and I'll make predictions about you. 📸🧐 It's a game. Let's try. :)
 - [Emoji Generator](https://chat.openai.com/g/g-wkmOq6AxG-emoji-generator) - I turn your text into Emoji - by: aiprompto.com.
 - [Meme Magic](https://chat.openai.com/g/g-SQTa6OMNN) - A creative meme wizard - by: ratcgpts.com - category: Entertainment
 - [HallAI](https://chat.openai.com/g/g-VW43OI:zsg-hallai) - Takes an image and generates a hallucinated, weird version of it. 
-
-
-
+- [Poetic Muse](https://chat.openai.com/g/g-4F6BjYRn7-poetic-muse) - Input in any topic or however y’re feeling, and a nice well thought out poem is outputted. - by: Yacub Abuhmeidan
+  
 ### 🎮 Games
 - [Dungeon Crawler](https://chat.openai.com/g/g-A7c3BLATR-dungeon-crawler) - Guide players through a dynamic, ever-changing RPG dungeon. 
 
-
-
 ### 📈 Business
 - [JuiceGPT](https://chat.openai.com/g/g-sjKcKJ0nu-juicegpt) - Assist in providing business insights, analysis, and clear, engaging content. - by: Newin
-  
+- [CSRD Advisor](https://chat.openai.com/g/g-vVra4We8d-csrd-advisor) - Corporate Sustainability Reporting Directive. - by: BusinessDigital.fr 
 
 ### 🌐 Miscellaneous 
 - [Voyage Guide](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide) - I craft personalized travel plans. - by: rngfx.com
@@ -67,8 +69,6 @@ focusing on detailed features. - by: Serkan Dayıcık
 - [How to Get Promotion from Boss](https://chat.openai.com/g/g-6ccJfpIdt-how-to-get-promotion-from-boss) - Turns boss criticisms into positive, witty, and professional remarks. - category: Life Style
 - [The Shaman](https://chat.openai.com/g/g-Klhv0H4ou-the-shaman) - The Shaman is a wise, old Native American spiritual guide, blending ancient wisdom with modern understanding in a calm, authoritative voice, providing empathetic and personalized support during psychedelic journeys. - by: Austin Potter - category: Advice/Entertainment
 
-
-  
 
 ### 🕵️ Other
 - [BibleGPT](https://chat.openai.com/g/g-fwqmAC1nB-biblegpt) - Spiritual assistant for Bible study and Church. - by Matthew S Gleason
