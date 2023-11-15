@@ -1,0 +1,1 @@
+[Formation](https://chat.openai.com/g/g-F5Q4vw8EN-formation) - Guide formel sur les cours de rédaction en fran�ais, offrant des informations - by: BusinessDigital.fr - categorie : Éducation
