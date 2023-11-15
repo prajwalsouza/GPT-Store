@@ -1,1 +1,1 @@
-[visual Creator](https://chat.openai.com/g/g-E62C6EUhd-visual-creator) - Créateur visuel par AI (utilisation DALL-E). Cr%C3%A9ation de visuels et designs assistés par la technologie. - by: www.BusinessDigital.fr - category: outils d'images
+[Visual Creator](https://chat.openai.com/g/g-E62C6EUhd-visual-creator) - Créateur visuel par AI"&amp; DALl-E  -by: www.BusinessDigital.fr - category: outils d'images
