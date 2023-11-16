@@ -1,0 +1,1 @@
+[Jordan Peterson GDT](https://chat.openai.com/g/g-5YThVGUqx-jordan-peterson-gpt) - Loaded with transcripts from his lectures, this bot is bloody well entertaining, eh? - by: kapslap.xyz - category: Entertainment
