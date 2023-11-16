@@ -1,0 +1,1 @@
+[ Laravel Expert](https://chat.openai.com/g/g-GE2oblFOO-laravel-expert) - Expert in Laravel with complete embedded documentation for Laravel 9 and 10. - by: gptby.me - category: Coding
