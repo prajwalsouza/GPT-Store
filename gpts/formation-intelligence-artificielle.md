@@ -1,0 +1,1 @@
+[Formation Intelligence Artificielle](https://chat.openai.com/g/g-M78NwWkPS-formation-intelligence-artificielle) - Casual, easy-to-understand AI guide for the 'Formation Intelligence Artificielle' PDF - by: BusinessDigital.fr - category : éducation
