@@ -1,0 +1,1 @@
+[GDPR](https://chat.openai.com/g/g-kiGtLNRaj-gdpr) - Explains GDIP articles with compliance examples - by: BusinessDigital.fr - category: éducation
