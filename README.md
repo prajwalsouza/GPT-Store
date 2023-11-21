@@ -12,15 +12,28 @@ This GPT store is updated via a GPT Agent : ['GPT Store'](https://chat.openai.co
 - [BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y-babyagi-txt) - Step by Step task manager that automatically saves memory to a .txt file. Inspired by BabyAgi by @yoheinakajima - by: mindgoblinstudios.com
 - [Prompt Reverse Engineer](https://chat.openai.com/g/g-yD4laGVCL-prompt-reverse-engineer-2-2-beta) - Provide the GPT to a link of a GPT prompt on a marketplace and it will reverse engineer it for you, free of charge. - by: ThePromptfather
 
+
+
+
 ### 🎓 Education 
 - [Physics Problem Creator](https://chat.openai.com/g/g-PRMFOZtRh-physics-problem-creator) - The Physics Problem Creator is a specialized GPT designed to assist physics teachers in creating diverse and engaging problem sets for their students. - Education / Academic Tools (Physics)  
 - [Math Mentor](https://chat.openai.com/g/g-ENhijiiwK) - I help parents help their kids with math. Need a 9pm refresher on geometry proofs? Iâ€™m here for you. - by: ChatGPT
 - [Businessdigital](https://chat.openai.com/g/g-tFH6RG72I-businessdigital) - Organisme de formation professionnelle avec des programmes subventionn�es. - by: BusinessDigital.fr
+- [GDPR](https://chat.openai.com/g/g-kiGtLNRaj-gdpr) - Explains GDIP articles with compliance examples - by: BusinessDigital.fr - category: éducation
+- [Formation Intelligence Artificielle](https://chat.openai.com/g/g-M78NwWkPS-formation-intelligence-artificielle) - Casual, easy-to-understand AI guide for the 'Formation Intelligence Artificielle' PDF - by: BusinessDigital.fr - category : éducation
+- [Formation](https://chat.openai.com/g/g-F5Q4vw8EN-formation) - Guide formel sur les cours de rédaction en fran�ais, offrant des informations - by: BusinessDigital.fr
+- [ Formateur Blogueur ](https://chat.openai.com/g/g-3m0KjZn1P-formateur-blogueur) - Génère des articles de blog professionnels en français pour des formations. - by: BusinessDigital.fr 
+
+### Teaching
+- [Lecture Planner](https://chat.openai.com/g/g-3DAxcaZd9-lecture-planner) - Give me a topic and the audience, and I'll search and find good anecdotes to start the topic.
+
 
 ### 🔬 Research 
 - [AnalyzePaper](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper) - Takes in a research paper or article, analyzes its claims, study quality, and results confidence and provides an easy to understand summary. - by: danielmiessler.com
 - [Research Assistant](https://chat.openai.com/g/g-IQWgBhbRG-research-assistant) - I will do effective online research, source evaluation and write papers. - by: Liseli akayombokwa. 
 - [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC_scholarai) - Research assistant for scientific papers.
+- [ResearchGPT](https://chat.openai.com/g/g-bo0FiWLY7-researchgpt) - AI Research Assistant. Search 200M academic papers from Consensus, get science-based answers, and draft content with accurate citations. - by:  consensus.app.
+- [Math Lab](https://chat.openai.com/g/g-4mGVtoI27-math-lab) - A friend staring at the blackboard along side you. For math notes in Latex, solving equations etc.
 
 
 ### 💻 Coding 
@@ -31,21 +44,29 @@ This GPT store is updated via a GPT Agent : ['GPT Store'](https://chat.openai.co
 - [DevGPT](https://chat.openai.com/g/g-eN7HtAqXW-devgpt) - Code togetter, right now.. - by rivoluzioneinformatica.org 
 - [RubyGPT](https://chat.openai.com/g/g-ASMq03VdH-rubygpt) - Your Ruby coding assistant.- by Niklas Haeusele
 - [TestMaster](https://chat.openai.com/g/g-ClukKTFAw-testmaster) - An aid for coding professionals, TestMaster helps in developing and improving C# unit tests, making code testing efficient and effective.
+- [ Laravel Expert](https://chat.openai.com/g/g-GE2oblFOO-laravel-expert) - Expert in Laravel with complete embedded documentation for Laravel 9 and 10. - by: gptby.me
+
+
 
 ### Data Analytics
 - [Data Analytica](https://chat.openai.com/g/g-uIIMugM0x-data-analytica) - Data Analytica pulls 2800+ pages of material in its knowledge on performing data analytics in Python to perform higher-quality data analytics. - by: Brian Toney 
 
+
+### Search
+- [PodFinder](https://chat.openai.com/g/g-43gjrkLqk-podfinder) - Find that amazing podcast you didn't know you were looking for. - by: Juan Antonio Arias Lopez
+
 ### 🩺 Health 
 - [Ask Dr. Andrew Huberman](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman) - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab. - by: junyang.wang
 - [FitPal](https://chat.openai.com/g/g-zoXbeHp7G) - AI fitness and nutrition guide with meal planning - by:  Igor Prodanović
-- [Ingredient Analyst](https://chat.openai.com/g/g-WWVXBjFEg-ingredient-analyst) - Your Personal Ingredient Analyzer and Advisor. Simply upload a photo of your ingredients or pose a query, and let me assist you with detailed analysis 
-and expert evaluations! - by: community builder - category: Health and Fitness
+- [Ingredient Analyst](https://chat.openai.com/g/g-WWVXBjFEg-ingredient-analyst) - Your Personal Ingredient Analyzer and Advisor. Simply upload a photo of your ingredients or pose a query, and let me assist you with detailed analysis and expert evaluations! - by: community builder - category: Health and Fitness
+
 
 ### Image Tools
 - [Logo Creator](https://chat.openai.com/g/g-gFt1ghYJl-logo-creator) - Use me to generate logo designs! - by: Chase Lean
 - [Artisan Canvas](https://chat.openai.com/g/g-djaRBZs0B-artisan-canvas) - Creates oil painting style images with large pieces of paint. 
-- [Pixarize Me](https://chat.openai.com/g/g-t37VkYd30-pixarize-me) - Creates Pixar-style characters from user images, 
-focusing on detailed features. - by: Serkan Dayıcık
+- [Pixarize Me](https://chat.openai.com/g/g-t37VkYd30-pixarize-me) - Creates Pixar-style characters from user images, focusing on detailed features. - by: Serkan Dayıcık
+- [Visual Creator](https://chat.openai.com/g/g-E62C6EUhd-visual-creator) - Créateur visuel par AI"&amp; DALl-E  -by: www.BusinessDigital.fr - category: outils d'images
+- [Python Pixel Pro](https://chat.openai.com/g/g-n3CNPguxM-python-pixel-pro) - Fun image editing expert with Python skills 👍
 
 
 ### 🎉 Entertainment 
@@ -54,13 +75,20 @@ focusing on detailed features. - by: Serkan Dayıcık
 - [Meme Magic](https://chat.openai.com/g/g-SQTa6OMNN) - A creative meme wizard - by: ratcgpts.com - category: Entertainment
 - [HallAI](https://chat.openai.com/g/g-VW43OI:zsg-hallai) - Takes an image and generates a hallucinated, weird version of it. 
 - [Poetic Muse](https://chat.openai.com/g/g-4F6BjYRn7-poetic-muse) - Input in any topic or however y’re feeling, and a nice well thought out poem is outputted. - by: Yacub Abuhmeidan
-  
+- [Jordan Peterson GDT](https://chat.openai.com/g/g-5YThVGUqx-jordan-peterson-gpt) - Loaded with transcripts from his lectures, this bot is bloody well entertaining, eh? - by: kapslap.xyz 
+- [FakeGPT](https://gpt.com/notgpt) - A not real but actually real gpt - by: Not Me 
+
+
 ### 🎮 Games
 - [Dungeon Crawler](https://chat.openai.com/g/g-A7c3BLATR-dungeon-crawler) - Guide players through a dynamic, ever-changing RPG dungeon. 
+- [AI Maze Solver ✨](https://chat.openai.com/g/g-mEHteBxiT-ai-maze-solver) - Give me a maze and I'll try to provide a solution. 🔍
+
 
 ### 📈 Business
 - [JuiceGPT](https://chat.openai.com/g/g-sjKcKJ0nu-juicegpt) - Assist in providing business insights, analysis, and clear, engaging content. - by: Newin
 - [CSRD Advisor](https://chat.openai.com/g/g-vVra4We8d-csrd-advisor) - Corporate Sustainability Reporting Directive. - by: BusinessDigital.fr 
+- [SEO](https://chat.openai.com/g/g-TlJAyH1KK-seo) - Expert in SEO with case studies and examples - by: BusinessDigital.fr 
+- [Ads Optimizer](https://chat.openai.com/g/g-qmchkjxMA-ads-optimizer) - Expert en marketing digital pour formations subventionn�es. - by: BusinessDigital.fr 
 
 ### 🌐 Miscellaneous 
 - [Voyage Guide](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide) - I craft personalized travel plans. - by: rngfx.com
